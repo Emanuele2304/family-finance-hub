@@ -56,5 +56,5 @@ AREE DI MIGLIORAMENTO (scegliere 1-2 da implementare):
 - Mantieni tutte le pagine esistenti (Dashboard, Transactions, Budgets, Settings, etc.)
 - Se aggiungi nuovo stato, usa appStore o localStorage
 - Non fare breaking changes su tipi TypeScript
-- I grafici devono essere responsive
+- I grafici devono essere responsive,
 - Aggiungi loading skeleton durante fetch dati DB
